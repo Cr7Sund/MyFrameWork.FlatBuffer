@@ -1,0 +1,20 @@
+{
+    "name": "com.cr7sund.flatbuffer",
+    "version": "1.0.0",
+    "displayName": "UnityFlatbuffer",
+    "description": "Flatbuffer upm",
+    "unity": "2022.4",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "keywords": [
+        "flatbuffer",
+        "Npoi"
+    ],
+    "author": {
+        "name": "Cr7Sund",
+        "email": "liux4989@gmail.com",
+        "url": "https://github.com/Cr7Sund/MyFrameWork.FlatBuffer"
+    }
+}
